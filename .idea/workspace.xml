@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="92249176-9a69-42bb-bfa9-717de6ae4c9c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Wpw4HbCCvHMgDtmLwxACatUeWw" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RunManager" selected="JUnit.CommentsApiTests.verifyEmailFormatFromComments">
+    <configuration name="CommentsApiTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="blog_api_tests" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CommentsApiTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CommentsApiTests.verifyEmailFormatFromComments" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="blog_api_tests" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CommentsApiTests" />
+      <option name="METHOD_NAME" value="verifyEmailFormatFromComments" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PostsApiTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="blog_api_tests" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="PostsApiTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserApiTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="blog_api_tests" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="UserApiTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.CommentsApiTests.verifyEmailFormatFromComments" />
+        <item itemvalue="JUnit.CommentsApiTests" />
+        <item itemvalue="JUnit.PostsApiTests" />
+        <item itemvalue="JUnit.UserApiTests" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="92249176-9a69-42bb-bfa9-717de6ae4c9c" name="Default Changelist" comment="" />
+      <created>1579859650812</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579859650812</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="556" y="99" key="#Project_Structure" timestamp="1579859897044">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state x="556" y="99" key="#Project_Structure/0.23.1440.821@0.23.1440.821" timestamp="1579859897044" />
+    <state width="1395" height="263" key="GridCell.Tab.0.bottom" timestamp="1579860585014">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state width="1395" height="263" key="GridCell.Tab.0.bottom/0.23.1440.821@0.23.1440.821" timestamp="1579860585014" />
+    <state width="1395" height="263" key="GridCell.Tab.0.center" timestamp="1579860585013">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state width="1395" height="263" key="GridCell.Tab.0.center/0.23.1440.821@0.23.1440.821" timestamp="1579860585013" />
+    <state width="1395" height="263" key="GridCell.Tab.0.left" timestamp="1579860585013">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state width="1395" height="263" key="GridCell.Tab.0.left/0.23.1440.821@0.23.1440.821" timestamp="1579860585013" />
+    <state width="1395" height="263" key="GridCell.Tab.0.right" timestamp="1579860585013">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state width="1395" height="263" key="GridCell.Tab.0.right/0.23.1440.821@0.23.1440.821" timestamp="1579860585013" />
+    <state width="1395" height="263" key="GridCell.Tab.1.bottom" timestamp="1579860585015">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state width="1395" height="263" key="GridCell.Tab.1.bottom/0.23.1440.821@0.23.1440.821" timestamp="1579860585015" />
+    <state width="1395" height="263" key="GridCell.Tab.1.center" timestamp="1579860585014">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state width="1395" height="263" key="GridCell.Tab.1.center/0.23.1440.821@0.23.1440.821" timestamp="1579860585014" />
+    <state width="1395" height="263" key="GridCell.Tab.1.left" timestamp="1579860585014">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state width="1395" height="263" key="GridCell.Tab.1.left/0.23.1440.821@0.23.1440.821" timestamp="1579860585014" />
+    <state width="1395" height="263" key="GridCell.Tab.1.right" timestamp="1579860585015">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state width="1395" height="263" key="GridCell.Tab.1.right/0.23.1440.821@0.23.1440.821" timestamp="1579860585015" />
+    <state x="230" y="72" key="SettingsEditor" timestamp="1579860079008">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state x="230" y="72" key="SettingsEditor/0.23.1440.821@0.23.1440.821" timestamp="1579860079008" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/CommentsApiTests.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
